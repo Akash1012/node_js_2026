@@ -1,0 +1,28 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "Google",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-06-01"
+    },
+    {
+      "id": 2,
+      "company": "Meta",
+      "role": "SWE",
+      "status": "applied",
+      "appliedDate": "2026-06-29"
+    },
+    {
+      "id": 3,
+      "tweet": "Hello World",
+      "createdAt": "2026-10-19T15:00:17.053Z"
+    },
+    {
+      "id": 4,
+      "tweet": "INDIA",
+      "createdAt": "2026-10-19T15:01:09.733Z"
+    }
+  ]
+}
